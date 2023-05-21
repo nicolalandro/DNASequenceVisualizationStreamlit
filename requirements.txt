@@ -1,2 +1,3 @@
 streamlit
-streamlit-seqviz --index-url https://gitlab.com/api/v4/projects/46186878/packages/pypi/simple
+--index-url https://gitlab.com/api/v4/projects/46186878/packages/pypi/simple
+streamlit-seqviz 
